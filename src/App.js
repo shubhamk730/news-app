@@ -6,8 +6,6 @@ import LoadingBar from "react-top-loading-bar";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
 
-// 40b5c56bdd1a433190a6e7f7c0ffe286
-
 export default class App extends Component {
   state = {
     progress: 0,
